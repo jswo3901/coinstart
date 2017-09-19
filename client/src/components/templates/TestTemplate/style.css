@@ -1,0 +1,21 @@
+.firstDiv{
+  border: solid black 1px;
+  float: left;
+  width: 33%;
+  height: 20rem;
+}
+
+.secondDiv{
+  border: solid black 1px;
+  float: left;
+  width: 33%;
+  height: 20rem;
+  background-color: silver
+}
+
+.thirdDiv{
+  border: solid black 1px;
+  float: left;
+  width: 33%;
+  height: 20rem;
+}

@@ -1,0 +1,21 @@
+## 폴더구조
+```
+git
+client/
+  config/
+  node_modules/
+  public/
+  scripts/
+  src/
+    components/
+      atoms/
+    index.js
+  package.json
+server/
+  node_modules/
+  public/
+  src/
+    api/
+    index.js
+  package.json
+```
